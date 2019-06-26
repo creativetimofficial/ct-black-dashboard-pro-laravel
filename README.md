@@ -1,6 +1,6 @@
 # [Black Dashboard Pro Laravel](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-pro-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Black Dashboard v1.0.0. More info at https://www.creative-tim.com/product/black-dashboard-pro
 
@@ -965,7 +965,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/black-dashboard-pro/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Black Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/black-dashboard-pro/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Change log
 
