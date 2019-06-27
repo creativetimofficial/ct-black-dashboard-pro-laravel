@@ -317,9 +317,9 @@ The policy which authorizes the user on item management pages is implemented in 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=bdl-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
-| HTML | LARAVEL |
-| --- | --- |
-| [![Black Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/black-dashboard-pro/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
+| LARAVEL |
+| --- |
+| [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Demo
 
@@ -963,9 +963,9 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
-| HTML | LARAVEL |
-| --- | --- |
-| [![Black Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/black-dashboard-pro/examples/dashboard.html?ref=bdl-readme) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
+| LARAVEL |
+| --- |
+| [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Change log
 
