@@ -12,7 +12,7 @@ Speed up your web development with the Bootstrap 4 Admin Dashboard built for Lar
 
 If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
 
- - Windows: https://l.facebook.com/l.php?u=https%3A%2F%2Fupdivision.com%2Fblog%2Fpost%2Fbeginner-s-guide-to-setting-up-your-local-development-environment-on-windows&h=AT2_Au02T9UaZ3CtVukNGIdAAOcpEFTwQpcFDTSqiWqtmL5FHPXkGP5FuTBT6pURvcxUCBf57Msc9E82-M0wUpqfbl2YGOUbIOg9om6cji5dpa0Ib-y65fBSyLEGvjoo4ge2bpfhjS-GslMH1g
+ - Windows: https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows
  - Linux: https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
  - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/
 
@@ -329,7 +329,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Profile.png)](https://black-dashboard-pro-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Users.png)](https://black-dashboard-pro-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Tables.png)](https://black-dashboard-pro-laravel.creative-tim.com/table-list?ref=bdl-readme)
+| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Profile.png)](https://black-dashboard-pro-laravel.creative-tim.com/profile?ref=bdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Users.png)](https://black-dashboard-pro-laravel.creative-tim.com/user?ref=bdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/Tables.png)](https://black-dashboard-pro-laravel.creative-tim.com/regular-tables?ref=bdl-readme)
 [View More](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
 
 ## Documentation
@@ -958,8 +958,8 @@ At present, we officially aim to support the last two versions of the following 
 - Demo: <https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme>
 - Download Page: <https://www.creative-tim.com/product/black-dashboard-pro-laravel?ref=bdl-readme>
 - Documentation: <https://black-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
+- License Agreement: <https://www.creative-tim.com/license?ref=bdl-readme>
+- Support: <https://www.creative-tim.com/contact-us?ref=bdl-readme>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
@@ -987,23 +987,25 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=bdl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license).
+- [Creative Tim License](https://www.creative-tim.com/license?ref=bdl-readme).
 
 
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=bdl-readme) (earn money)
+- [Blog Creative Tim](http://blog.creative-tim.com?ref=bdl-readme)
 - [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=bdlreadme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=bdlreadme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=bdlreadme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=bdlreadme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=bdlreadme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=bdlreadme)
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=bdl-readme) from Creative Tim
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=bdl-readme) from Creative Tim
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=bdl-readme) from Creative Tim
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=bdl-readme) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=bdl-readme) from Creative Tim
+- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=bdl-readme)
 
-### Social Media
+## Social Media
+
+### Creative Tim:
 
 Twitter: <https://twitter.com/CreativeTim?ref=bdl-readme>
 
@@ -1012,6 +1014,18 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=bdl-readme>
 Dribbble: <https://dribbble.com/creativetim?ref=bdl-readme>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=bdl-readme>
+
+
+### Updivision:
+
+Twitter: <https://twitter.com/updivision?ref=bdl-readme>
+
+Facebook: <https://www.facebook.com/updivision?ref=bdl-readme>
+
+Linkedin: <https://www.linkedin.com/company/updivision?ref=bdl-readme>
+
+Updivision Blog: <https://updivision.com/blog/?ref=bdl-readme>
+
 
 ## Credits
 
