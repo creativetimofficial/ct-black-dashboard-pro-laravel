@@ -1,4 +1,4 @@
-# [Black Dashboard Pro Laravel](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-pro-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# [Black Dashboard Pro Laravel](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Black%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//black-dashboard-pro-laravel.creative-tim.com/%20%23%black%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-black-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-black-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg)](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -318,7 +318,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme)
+| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
 
 ## Demo
 
@@ -954,7 +954,7 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme>
+- Demo: <https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme>
 - Download Page: <https://www.creative-tim.com/product/black-dashboard-pro-laravel?ref=bdl-readme>
 - Documentation: <https://black-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=bdl-readme>
@@ -964,7 +964,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://black-dashboard-pro-laravel.creative-tim.com/?ref=bdl-readme) |
+| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme) |
 
 ## Change log
 
