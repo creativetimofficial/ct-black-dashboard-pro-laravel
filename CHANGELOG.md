@@ -22,3 +22,7 @@ All notable changes to `Laravel Black Dashboard Pro` theme for Laravel will be d
 ## Version 1.0.2
 
 - Update to Laravel 7.x
+
+## Version 1.0.3
+
+- Update to Laravel 8.x
