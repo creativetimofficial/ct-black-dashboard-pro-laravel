@@ -957,7 +957,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://black-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=bdl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=bdl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=bdl-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-black-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -983,8 +983,8 @@ We use GitHub Issues as the official bug tracker for the Black Dashboard Laravel
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=bdl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license?ref=bdl-readme).
+- Copyright Creative Tim (https://www.creative-tim.com/?ref=bdl-readme)
+- Creative Tim License (https://www.creative-tim.com/license?ref=bdl-readme).
 
 
 ## Useful Links
