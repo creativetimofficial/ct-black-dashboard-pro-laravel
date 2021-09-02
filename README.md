@@ -4,8 +4,8 @@
 
 *Frontend version*: Black Dashboard v1.0.0. More info at https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/black-dashboard-pro-laravel/black-dashboard-pro-laravel.gif?raw=true)
-
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757" width="100%" />](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
+          
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
 
 ## Prerequisites
@@ -317,7 +317,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
+| [<img src="https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg" width="490" />](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757" width="490" />](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
 
 ## Demo
 
@@ -962,7 +962,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757)](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme) |
+| [<img src="https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg" width="490" />](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757" width="490" />](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
 
 ## Change log
 
