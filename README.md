@@ -6,7 +6,7 @@
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/166/original/opt_blkp_laravel_thumbnail.jpg?1561727757" width="100%" />](https://www.creative-tim.com/live/black-dashboard-pro-laravel/?ref=bdl-readme)
           
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
 ## Prerequisites
 
